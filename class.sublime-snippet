@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+class ${1:Name} # ${3:comment}
+	
+	attr_accessor	:${2:attribute}
+
+	def initialize ($2)
+		@$2 = $2
+	end
+
+end #end class $1
+
+$0
+]]></content>
+	<tabTrigger>class</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>
