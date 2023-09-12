@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+#________________________________________
+# ${1:Program Title}
+#________________________________________
+#________________________________________
+# - Program Specifications - 
+#	Takes: 		${2:arguments		: type}
+#	Returns:	${3:return_value	: type}
+#________________________________________
+# - ${4:First Section} - 
+$0
+]]></content>
+	<tabTrigger>__h</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>

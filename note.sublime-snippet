@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+# Note: ${1:notes}
+#		- ${2:notes}
+$0
+]]></content>
+	<tabTrigger>__n</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>

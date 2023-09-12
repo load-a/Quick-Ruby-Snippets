@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+#	Takes: 		${1:arguments : type}
+#	Returns:	${2:return_value : type}
+$0
+]]></content>
+	<tabTrigger>__io</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>
