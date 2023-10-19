@@ -1,3 +1,6 @@
+<!--Subsection Divider-->
+<!-- __s -->
+<!--A quick way to divide your program into titled subsections. Divider is 40 characters long.-->
 <snippet>
 	<content><![CDATA[
 #_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 

@@ -1,6 +1,10 @@
+<!--Brief-->
+<!-- __b -->
+<!--A quick rundown of your method.-->
 <snippet>
 	<content><![CDATA[
 #	Brief: This method ${1:does what?}
+#					
 $0
 ]]></content>
 	<tabTrigger>__b</tabTrigger>

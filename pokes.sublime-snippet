@@ -1,6 +1,9 @@
+<!--Poke Tool-->
+<!-- __p -->
+<!--A quick way to debug something with Puts. "POKE" keyword is to make these easier to find.-->
 <snippet>
 	<content><![CDATA[
-puts "${1:name}: #{${2:variable}} ~ ${3:context}" # POKE $1
+puts "${1:name}: #{${2:variable}} ~ ${3:context}" # POKE: $1
 ]]></content>
 	<tabTrigger>__p</tabTrigger>
 	<scope>source.ruby</scope>

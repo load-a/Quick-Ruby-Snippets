@@ -1,14 +1,23 @@
+<!--Program Header-->
+<!-- __h -->
+<!--A pre-fabricated header for your program. Includes section for title, description, in/out and requirements. -->
 <snippet>
 	<content><![CDATA[
 #________________________________________
 # ${1:Program Title}
 #________________________________________
 #________________________________________
-# - Program Specifications - 
-#	Takes: 		${2:arguments		: type}
-#	Returns:	${3:return_value	: type}
+# - Program Description -
+# This program ${2:Summary}
 #________________________________________
-# - ${4:First Section} - 
+# - Program Specifications - 
+#	Input: 		${3:arguments		: type}
+#	Output:	${4:return_value	: type}
+#________________________________________
+# - Requirements -
+# - require "${5:module}" - 
+#________________________________________
+#________________________________________
 $0
 ]]></content>
 	<tabTrigger>__h</tabTrigger>

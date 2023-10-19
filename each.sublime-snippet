@@ -1,3 +1,6 @@
+<!--Each-->
+<!-- .each -->
+<!--Quick Each method with block and element variable.-->
 <snippet>
 	<content><![CDATA[
 .each { |e|

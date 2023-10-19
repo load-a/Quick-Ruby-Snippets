@@ -1,3 +1,6 @@
+<!--Method In/Out-->
+<!-- __io -->
+<!--A quick way to note what your method takes as arguments and what it returns.-->
 <snippet>
 	<content><![CDATA[
 #	Takes: 		${1:arguments : type}

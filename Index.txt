@@ -1,0 +1,24 @@
+Snippet Table
+___________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________
+#		| Name								| Trigger	| Description 																																								|
+___________________________________________________________________________________________________________________________________
+1		| Breif								| __b			| A quick rundown of your method. 																														|
+2		| Class								| class		|	Automatic Class generation. Includes initialize, attr_accessor, etc. 												|
+3		| Each								| .each		|	Quick Each method with block and element variable.																					|
+4		| Each (Hash)					| .heach	|	Quick Each for hashes. Includes key and value variables. 																		|
+5		| Each with Index			| .ewi		|	Quick Each-with-index method for arrays. Includes element and index variables. 							|
+6		| If/Else							| ifelse	|	Quick If-Else generation. 																																	|
+7		| If/Else-if/Else			| ifelsif	|	Quick If-Elseif-Else generation. 																														|
+8		| Method In/Out				| __io		|	A quick way to note what your method takes as arguments and what it returns. 								|
+9		| Map									| .map		|	Quick Map method generation with element variable. 																					|
+10	| Note								| __n			|	A quick way to make notes in your program. "NOTE" keyword is to make these easier to find. 	|
+11	| Poke								| __p			|	A quick way to debug something with Puts. "POKE" keyword is to make these easier to find. 	|
+12	| Program Header			| __h			|	A pre-fabricated header for your program. 																									|
+																		| 	Includes section for title, description, in/out and requirements. 												|
+13	| Reminder						| __r			|	Quick way to remind yourself to do something. 																							|
+																		| 	"REMINDER" keyword is to make these easy to find. 																				|
+14	| Section Divider			| __d			|	A quick way to divide your program into titled sections. Divider is 40 characters long. 		|
+15	| Subsection Divider	| __s			|	A quick way to divide your program into titled subsections. Divider is 40 characters long. 	|
+___________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________

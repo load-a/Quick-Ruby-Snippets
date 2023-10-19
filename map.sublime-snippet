@@ -1,3 +1,6 @@
+<!--Map-->
+<!-- .map -->
+<!--Quick Map method generation with element variable.-->
 <snippet>
 	<content><![CDATA[
 .map { |e|

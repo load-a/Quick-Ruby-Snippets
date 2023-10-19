@@ -1,3 +1,6 @@
+<!--Each (Hash)-->
+<!-- .heach -->
+<!--Quick Each for hashes. Includes key and value variables.-->
 <snippet>
 	<content><![CDATA[
 .each { |k, v|

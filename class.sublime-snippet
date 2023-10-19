@@ -1,6 +1,9 @@
+<!--Class-->
+<!-- class -->
+<!--Automatic Class creation. Includes initialize, attr_accessor, etc.-->
 <snippet>
 	<content><![CDATA[
-class ${1:Name} # ${3:comment}
+class ${1:Name} # ${3:breif}
 	
 	attr_accessor	:${2:attribute}
 

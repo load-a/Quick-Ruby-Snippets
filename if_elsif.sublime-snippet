@@ -1,3 +1,6 @@
+<!--If/Elsif-->
+<!-- ifelsif -->
+<!--Quick If/Elseif/Else generation.-->
 <snippet>
 	<content><![CDATA[
 if ${1:condition}

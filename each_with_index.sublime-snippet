@@ -1,3 +1,6 @@
+<!--Each with Index-->
+<!-- .ewi -->
+<!--Quick Each with index method for arrays. Includes element and index variables.-->
 <snippet>
 	<content><![CDATA[
 .each_with_index { |e, i|

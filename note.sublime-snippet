@@ -1,7 +1,10 @@
+<!--Note-->
+<!-- __n -->
+<!--A quick way to make notes in your program. "NOTE" keyword is to make these easier to find.-->
 <snippet>
 	<content><![CDATA[
-# Note: ${1:notes}
-#		- ${2:notes}
+# NOTE: ${1:note}
+#		- ${2:more notes}
 $0
 ]]></content>
 	<tabTrigger>__n</tabTrigger>

@@ -1,0 +1,11 @@
+<!--Reminder-->
+<!-- __r -->
+<!--Quick way to remind yourself to do something. "REMINDER" keyword is to make these easy to find.-->
+<snippet>
+	<content><![CDATA[
+# REMINDER: ${1:Remember to...}
+$0
+]]></content>
+	<tabTrigger>__r</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>
