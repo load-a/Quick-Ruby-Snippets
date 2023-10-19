@@ -1,4 +1,4 @@
-Snippet Table
+Snippets Table
 ___________________________________________________________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________
 #		| Name								| Trigger	| Description 																																								|
@@ -15,10 +15,15 @@ ________________________________________________________________________________
 10	| Note								| __n			|	A quick way to make notes in your program. "NOTE" keyword is to make these easier to find. 	|
 11	| Poke								| __p			|	A quick way to debug something with Puts. "POKE" keyword is to make these easier to find. 	|
 12	| Program Header			| __h			|	A pre-fabricated header for your program. 																									|
-																		| 	Includes section for title, description, in/out and requirements. 												|
+		|											|					| 	Includes section for title, description, in/out and requirements. 												|
 13	| Reminder						| __r			|	Quick way to remind yourself to do something. 																							|
-																		| 	"REMINDER" keyword is to make these easy to find. 																				|
+		|											|					| 	"REMINDER" keyword is to make these easy to find. 																				|
 14	| Section Divider			| __d			|	A quick way to divide your program into titled sections. Divider is 40 characters long. 		|
 15	| Subsection Divider	| __s			|	A quick way to divide your program into titled subsections. Divider is 40 characters long. 	|
 ___________________________________________________________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________
+
+
+Notes:
+- To use, type the Trigger and press tab. You can press tab again to cycle through any input fields.
+- Install in Sublime's User folder.
